@@ -49,5 +49,5 @@ Sebuah aplikasi web untuk memudahkan proses peminjaman ruangan dan fasilitas ole
 
 ---
 
-##
-![Flowchart](diagramdb)
+## 👾 Flowchart
+![Flowchart](diagramdb.drawio.svg)
