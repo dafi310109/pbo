@@ -46,3 +46,8 @@ Sebuah aplikasi web untuk memudahkan proses peminjaman ruangan dan fasilitas ole
 1. **Clone repositori ini:**
    ```bash
    git clone https://github.com/username/nama-repo.git
+
+---
+
+##
+![Flowchart](diagramdb)
