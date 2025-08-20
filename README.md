@@ -50,7 +50,7 @@ Sebuah aplikasi web untuk memudahkan proses peminjaman ruangan dan fasilitas ole
 ---
 
 ## 👾 Flowchart
-![Flowchart](FLOWCHART.drawiopng)
+![Flowchart](FLOWCHART.drawio.png)
 
 ## 👾 Flowchart
 ![Flowchart](Untitled.svg)
