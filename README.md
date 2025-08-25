@@ -59,4 +59,4 @@ Sebuah aplikasi web untuk memudahkan proses peminjaman ruangan dan fasilitas ole
 ![Flowchart](UseCase_Peminjaman.drawio.svg)
 
 ## 👾 Activity Diagram
-![Flowchart](Activity_Peminjaman.drawio.svg)
+![Flowchart](Activity_Peminjaman.drawio.sv)
