@@ -48,6 +48,11 @@ Sebuah aplikasi web untuk memudahkan proses peminjaman ruangan dan fasilitas ole
    git clone https://github.com/username/nama-repo.git
 
 ---
+## 👾 Gambar Web
+(gambar.png)
+(gambar1.png)
+(gambar2.png)
+
 
 ## 👾 Flowchart
 ![Flowchart](FLOWCHART.drawio.png)
