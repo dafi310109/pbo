@@ -49,9 +49,9 @@ Sebuah aplikasi web untuk memudahkan proses peminjaman ruangan dan fasilitas ole
 
 ---
 ## 👾 Gambar Web
-(gambar.png)
-(gambar1.png)
-(gambar2.png)
+![Login](gambar.png)
+![Web](gambar1.png)
+![Web](gambar2.png)
 
 
 ## 👾 Flowchart
